@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Volley</string>
+    <string-array name="BooksSpinner">
+        <item>id</item>
+        <item>author</item>
+        <item>title</item>
+        <item>genre</item>
+        <item>price</item>
+        <item>published</item>
+        <item>description</item>
+    </string-array>
+</resources>
